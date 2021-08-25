@@ -1,2 +1,2 @@
 # SupplyChain
-# This is a supply chain prototype using solidity on ethereum blockchain.
+# This is a simple supply chain prototype using solidity on ethereum blockchain.
