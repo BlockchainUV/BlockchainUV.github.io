@@ -8,22 +8,22 @@ Blockchain is a revolutionary technology for transactional record keeping of ass
 
 With holistic understanding of the fundamental aspects of technology and prospective use-cases, we are fully equipped to deliver high quality consulting services in the blockchain technology and cryptocurrency space with niche in Bitcoin and Ethereum domains.
 
-https://www.10xcoderkids.com/blockchain-consulting
+[https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
 # SupplyChain
 
 This is a Supply Chain smart contract prototype on ethereum blockchain developed using javascript, solidity, truffle, ganache et al.
 
-https://github.com/BlockchainUV/SupplyChain
+[https://github.com/BlockchainUV/SupplyChain](https://github.com/BlockchainUV/SupplyChain)
 
 # NFT Market
 
 This is a NFT Market smart contract prototype on ethereum blockchain developed using solidity, truffle, ganache et al.
 
-https://github.com/BlockchainUV/nft_market
+[https://github.com/BlockchainUV/nft_market](https://github.com/BlockchainUV/nft_market)
 
 # Contact Us
 
-https://twitter.com/BlockchainUV
+[https://twitter.com/BlockchainUV](https://twitter.com/BlockchainUV)
 
-BlockchainUV@gmail.com
+[BlockchainUV@gmail.com](BlockchainUV@gmail.com)
