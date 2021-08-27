@@ -8,7 +8,7 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 [https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
-# SupplyChain
+# Supply Chain
 
 This is a Supply Chain smart contract prototype on ethereum blockchain developed using javascript, solidity, truffle, ganache et al.
 
