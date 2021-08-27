@@ -26,4 +26,4 @@ This is a NFT Market smart contract prototype on ethereum blockchain developed u
 
 [https://twitter.com/BlockchainUV](https://twitter.com/BlockchainUV)
 
-[BlockchainUV@gmail.com](BlockchainUV@gmail.com)
+[BlockchainUV@gmail.com](mailto:BlockchainUV@gmail.com)
