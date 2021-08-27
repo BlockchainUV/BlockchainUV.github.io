@@ -1,7 +1,5 @@
 # BlockchainUV
 
-A pure play #blockchain outfit
-
 We offer blockchain and cryptocurrency consulting under the banner Blockchain Ultra-Ventures.
 
 Blockchain is a revolutionary technology for transactional record keeping of assets in a distributed, decentralised and immutable ledger in a peer-to-peer (P2P) network. The blockchain technology is at the heart of Bitcoin, Ethereum and other cryptocurrencies and we remain firmly focused on Bitcoin and Ethereum ecosystem, the top two leading networks.
