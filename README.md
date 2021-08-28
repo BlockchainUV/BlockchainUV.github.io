@@ -8,6 +8,16 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 [https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
+# BUV Token
+
+This is a BUV Token smart contract developed using solidity and deployed on ethereum testnet / ropsten blockchain.
+
+[Token : https://ropsten.etherscan.io/token/0xc15bb309303dfa5c118f3dff946e614292382864](https://ropsten.etherscan.io/token/0xc15bb309303dfa5c118f3dff946e614292382864)
+
+[Dapp : https://ropsten.etherscan.io/dapp/0xc15bb309303dfa5c118f3dff946e614292382864](https://ropsten.etherscan.io/dapp/0xc15bb309303dfa5c118f3dff946e614292382864)
+
+[Code : https://github.com/BlockchainUV/BUV_Token](https://github.com/BlockchainUV/BUV_Token)
+
 # Supply Chain
 
 This is a Supply Chain smart contract prototype on ethereum blockchain developed using javascript, solidity, truffle, ganache et al.
