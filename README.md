@@ -10,7 +10,7 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 # [Repositories](https://github.com/BlockchainUV)
 
-Access account overview and / or repositories here.
+Access our account overview and / or repositories here.
 
 [https://github.com/BlockchainUV](https://github.com/BlockchainUV)
 
