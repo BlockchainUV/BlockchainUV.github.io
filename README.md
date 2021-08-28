@@ -10,7 +10,7 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 [Repos : https://github.com/BlockchainUV](https://github.com/BlockchainUV)
 
-# BUV Token
+# [BUV Token](https://github.com/BlockchainUV/BUV_Token)
 
 This is a BUV Token smart contract developed using solidity and deployed on ethereum testnet / ropsten blockchain.
 
@@ -20,20 +20,20 @@ This is a BUV Token smart contract developed using solidity and deployed on ethe
 
 [Code : https://github.com/BlockchainUV/BUV_Token](https://github.com/BlockchainUV/BUV_Token)
 
-# Supply Chain
+# [Supply Chain](https://github.com/BlockchainUV/SupplyChain)
 
 This is a Supply Chain smart contract prototype on ethereum blockchain developed using javascript, solidity, truffle, ganache et al.
 
-[https://github.com/BlockchainUV/SupplyChain](https://github.com/BlockchainUV/SupplyChain)
+[Code : https://github.com/BlockchainUV/SupplyChain](https://github.com/BlockchainUV/SupplyChain)
 
-# NFT Market
+# [NFT Market](https://github.com/BlockchainUV/nft_market)
 
 This is a NFT Market smart contract prototype on ethereum blockchain developed using solidity, truffle, ganache et al.
 
-[https://github.com/BlockchainUV/nft_market](https://github.com/BlockchainUV/nft_market)
+[Code : https://github.com/BlockchainUV/nft_market](https://github.com/BlockchainUV/nft_market)
 
-# Contact Us
-
-[https://twitter.com/BlockchainUV](https://twitter.com/BlockchainUV)
+# [Contact Us](mailto:BlockchainUV@gmail.com)
 
 [BlockchainUV@gmail.com](mailto:BlockchainUV@gmail.com)
+
+[https://twitter.com/BlockchainUV](https://twitter.com/BlockchainUV)
