@@ -36,6 +36,12 @@ This is a NFT Market smart contract prototype on ethereum blockchain developed u
 
 [Code : https://github.com/BlockchainUV/nft_market](https://github.com/BlockchainUV/nft_market)
 
+# [Student Enrollment Dapp](https://github.com/BlockchainUV/Student_Enrollment_Dapp)
+
+This is a simple Student Enrollment Dapp pilot project on ethereum blockchain developed using html, css, javascript, solidity, web3.js, remix, ganache-cli et al.
+
+[Code : https://github.com/BlockchainUV/Student_Enrollment_Dapp](https://github.com/BlockchainUV/Student_Enrollment_Dapp)
+
 # [Contact Us](mailto:BlockchainUV@gmail.com)
 
 [BlockchainUV@gmail.com](mailto:BlockchainUV@gmail.com)
