@@ -8,6 +8,12 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 [https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
+# [Members](https://github.com/orgs/BlockchainUV/people)
+
+Here is our list of members / contributors.
+
+[https://github.com/orgs/BlockchainUV/people](https://github.com/orgs/BlockchainUV/people)
+
 # [Repositories](https://github.com/BlockchainUV)
 
 Access our account overview and / or repositories here.
