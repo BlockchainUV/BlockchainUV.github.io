@@ -8,6 +8,8 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 [https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
+[https://blockchainuv.github.io](https://blockchainuv.github.io)
+
 # [Members](https://github.com/orgs/BlockchainUV/people)
 
 Here is our list of members / contributors.
@@ -49,6 +51,12 @@ This is a NFT Market smart contract prototype on ethereum blockchain developed u
 This is a simple Student Enrollment Dapp pilot project on ethereum blockchain developed using html, css, javascript, solidity, web3.js, remix, ganache-cli et al.
 
 [Code : https://github.com/BlockchainUV/Student_Enrollment_Dapp](https://github.com/BlockchainUV/Student_Enrollment_Dapp)
+
+# [USD Rate Oracle](https://github.com/BlockchainUV/USD_Rate_Oracle)
+
+This is a simple USD Rate Oracle pilot to retrieve current USD rate straight into your ethereum solidity smart contract using provable / oraclize blockchain oracle service.
+
+[Code : https://github.com/BlockchainUV/USD_Rate_Oracle](https://github.com/BlockchainUV/USD_Rate_Oracle)
 
 # [Contact Us](mailto:BlockchainUV@gmail.com)
 
